@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Vazha
+#### I am a Fullstack Developer
+![I am a Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**vazhap519/vazhap519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Vazha and I have 6 years of experience in web development, I have experience in creating and editing websites of various types and complexity, I own various programming languages ​​and libraries, including HTML5, CSS3, BOOTSTRAP, TAILWINDCSS, GULP.JS, VUE.JS, JAVASCRIPT, JQUERY , PHP, LARAVEL, LIVEWIRE, WORDPRESS, ELEMENTOR
 
-Here are some ideas to get you started:
+Skills: VUE JS / jQUERY/ JS / HTML / CSS/JQUERY/PHP/LARAVEL/LIVEWIRE/WORDPRESS/REACT NATIVE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
